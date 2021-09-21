@@ -68,3 +68,6 @@ suprimentos, não satisfazendo as necessidades dos indivíduos.
 
 -Link do Canvas
 https://www.canva.com/design/DAEqlas5W1s/yj7RWV2tt2EHU1W3wwBX9w/view?utm_content=DAEqlas5W1s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+-Diagrama
+
