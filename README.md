@@ -70,4 +70,4 @@ suprimentos, não satisfazendo as necessidades dos indivíduos.
 https://www.canva.com/design/DAEqlas5W1s/yj7RWV2tt2EHU1W3wwBX9w/view?utm_content=DAEqlas5W1s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 -Diagrama
-
+https://github.com/trizalves/auxilio-para-necessitados/blob/main/SoftwareDeApp.drawio.png
